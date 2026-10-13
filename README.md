@@ -16,7 +16,7 @@ Bu proje kapsamında görev oluşturma, listeleme, güncelleme, silme, filtrelem
 ## Kurulum
 
 ```bash
-git clone PROJE_GITHUB_URL
+git clone https://github.com/nurguzay/taskflow.git
 cd taskflow-api
 npm install
 npm run dev
